@@ -1,0 +1,2 @@
+# Install in the existing Airflow virtual environment.
+pymupdf4llm
